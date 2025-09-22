@@ -1,6 +1,6 @@
-console.log('START');
+console.log("START");
 const numbers: number[] = [1, 2, 3];
-const letters: string[] = ['a', 'b', 'c'];
+const letters: string[] = ["a", "b", "c"];
 
 function zipList(): (number | string)[] {
   const out: (number | string)[] = [];
